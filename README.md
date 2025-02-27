@@ -12,5 +12,6 @@ Conexiones seguras: El cliente está diseñado para intentar reconectar automát
 Este RAT no debe ser utilizado con fines maliciosos ⚠️, ya que se proporciona únicamente como una demostración educativa para comprender cómo funcionan las herramientas de control remoto.
 
 
-<img width="486" alt="Captura" src="https://github.com/user-attachments/assets/c7ace769-0a95-4cbf-9720-f0abbd7e43de" />
+<img width="710" alt="Captura" src="https://github.com/user-attachments/assets/bbeab1d0-29b1-4ee8-9714-162c6daba31e" />
+
 
