@@ -10,3 +10,7 @@ Recepción de resultados: Los resultados de los comandos se envían de vuelta al
 Codificación de datos: La transferencia de archivos entre el servidor y el cliente se realiza mediante codificación Base64 🔐 para asegurar que los datos binarios puedan ser transmitidos correctamente a través de la red 🌐.
 Conexiones seguras: El cliente está diseñado para intentar reconectar automáticamente 🔄 si la conexión con el servidor se interrumpe.
 Este RAT no debe ser utilizado con fines maliciosos ⚠️, ya que se proporciona únicamente como una demostración educativa para comprender cómo funcionan las herramientas de control remoto.
+
+
+<img width="486" alt="Captura" src="https://github.com/user-attachments/assets/c7ace769-0a95-4cbf-9720-f0abbd7e43de" />
+
